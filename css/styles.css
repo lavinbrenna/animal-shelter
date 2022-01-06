@@ -1,0 +1,50 @@
+body{
+  font-family: 'Lora', serif;
+  background-color: #A9ACC6;
+}
+
+img{
+  width: 75%;
+  border-radius: 20%;
+  display: block;
+  margin: auto;
+}
+
+h3{
+  text-align: center;
+}
+
+.header{
+  background-color: #E07A5F;
+  text-align: center;
+  width: 100%;
+}
+
+.footer {
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
+
+}
+.container{
+  margin: auto;
+  width: 100%;
+  display: block;
+}
+.pet-column{
+  width: 25%;
+  margin: auto;
+  border: 2px Solid #F2CC8F;
+  border-radius: 10%;
+  padding: 5px;
+  align-items: center;
+  background-color: #F4F1DE;
+  box-sizing: border-box;
+  height: 525px;
+  float: left;
+}
+
+.pet-column h3{
+  font-size: 16pt;
+}
