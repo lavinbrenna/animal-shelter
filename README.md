@@ -22,11 +22,12 @@ This website implements HTML and CSS to show animals up for adoption.
 
 ## Known Bugs
 
-* Can't get pet-columns properly spaced with margin.
+* FIXED: Can't get pet-columns properly spaced with margin.
 
 
 ## License
 
-
+MIT
+_If you find errors reach out to us on github and let us know_
 
 Copyright (c) _2022_ _Brenna Lavin and Andy Plymate_

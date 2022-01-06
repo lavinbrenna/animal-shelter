@@ -17,27 +17,33 @@ h3{
 .header{
   background-color: #E07A5F;
   text-align: center;
-  width: 100%;
+  width: 98%;
+  padding: 15px;
 }
-
+.header h1{
+  font-size: 38px;
+}
 .footer {
   margin: auto;
   width: 50%;
   height: auto;
   display: block;
+  background-color: #E07A5F;
+  text-align: center;
 
 }
 .container{
-  margin: auto;
+  margin-left: 50px;
+  margin-right: 10px;
   width: 100%;
-  display: block;
+  display: inline-block;
 }
 .pet-column{
-  width: 25%;
-  margin: auto;
+  width: 22.5%;
+  margin: 5px;
+  padding: 10px;
   border: 2px Solid #F2CC8F;
   border-radius: 10%;
-  padding: 5px;
   align-items: center;
   background-color: #F4F1DE;
   box-sizing: border-box;
@@ -47,4 +53,5 @@ h3{
 
 .pet-column h3{
   font-size: 16pt;
+  text-decoration: underline;
 }
